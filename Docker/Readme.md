@@ -8,8 +8,16 @@ Docker is world's leading software container platform. What does this mean?
   * Databases
   * Dependencies
  * A software engineer has to make sure that all the components of a software stack should work in different kinds of platform, which in-turn creates a **matrix from hell** as shown below -
- <img src="./images/02.matrix_from_hell.png"></img>
+ <img src="./images/06.software_eng_problem.png"></img>
 
 ## Where does Docker come into picture?
 * We have the following steps involved in a typical software development life-cycle. Docker comes at the **deployment stage.**<br>
-<img src="./images/01.where_does_docker_come.png"></img>
+<img src="./images/07.docker_operation_stage.png"></img>
+
+## How does docker help to solve matrix from hell problem?
+### Problems faced in Software Industry v/s Shipping Industry 
+The problem faced by software engineers is very similar to what people from shipping industry faced a long time ago.<br> They had to ship various goods that belonged to different categories for ex. some were liquid, some were solid, some had different shapes and sizes etc. Their matrix from hell looked something like below - <br>
+<img src="./images/05.shipping_industry_problem.png"></img><br>
+## How did shipping industry solve their problem?
+* They switched to using **containers**, where goods can be manufactured as per standards.<br>
+<img src="./images/04.shipping_industry_solved.png"></img><br>
