@@ -24,4 +24,4 @@ Execute the below command to run image-<br>
 
 # Final Results
 You should be able to see the instructions mentioned along with CMD, getting executed.<br>
-<img src="./images/My_first_dockerfile/11.first_docker_image.png"></img>
+<img src="../images/11.first_docker_image.png"></img>
