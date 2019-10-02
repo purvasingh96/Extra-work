@@ -46,4 +46,21 @@ The below image describes the workflow of how docker works. Below is the descrip
 <br>
 <img src="./images/03.virtualization_vs_containerization.png"></img><br>
 
+# Benifits of Docker
+* **Build your application only once**
+  * An application inside container can run on any system that has Docker installed. Therefore, no need to configure app multiple times for various platforms.
+* **Testing application inside container**
+  * In Docker, you test your application inside docker container, hence the testing result that you recieved in test environment, would be the same you would get in production environment as well, as they would be running same docker container.
+* **Easy portability**
+  * If you created your container using amazon EC2 machine, you can then port this machine to virtual box and it will run as it is.
+* **Easy version controlling**
+  * Just like GIT, if you make any changes in your image, you can easily commit those changes and create new version.
+* **Application encapsulation/isolation**
+  * Every application runs inside its own container and does not interfere with other running applications.
+* **Easy deployments**
+* **Docker simplifies DevOps**
+
+
+
+
 
