@@ -19,5 +19,10 @@ Docker is world's leading software container platform. What does this mean?
 The problem faced by software engineers is very similar to what people from shipping industry faced a long time ago.<br> They had to ship various goods that belonged to different categories for ex. some were liquid, some were solid, some had different shapes and sizes etc. Their matrix from hell looked something like below - <br>
 <img src="./images/05.shipping_industry_problem.png"></img><br>
 ## How did shipping industry solve their problem?
-* They switched to using **containers**, where goods can be manufactured as per standards.<br>
+They switched to using **containers**, where goods can be manufactured as per standards.<br>
 <img src="./images/04.shipping_industry_solved.png"></img><br>
+## How did software engineers solve their problem?
+Software engineers resorted to something similar, i.e. they used **docker containers**.<br>
+<img src="./images/01.sw_problem_solved.png"></img><br>
+
+
