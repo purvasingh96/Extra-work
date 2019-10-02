@@ -34,6 +34,9 @@ The below image describes the workflow of how docker works. Below is the descrip
 5. These images can be pulled to create containers in any environment.<br>
 <img src="./images/02.docker_workflow.png"></img><br>
 
+# Components of Docker
+<img src="./images/10.docker_components.png"></img><br>
+
 # Containerization v/s Virtualization
 | Containerization                                                                                                                                                                       | Virtualization                                    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
