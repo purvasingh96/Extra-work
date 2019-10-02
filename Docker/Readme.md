@@ -25,4 +25,13 @@ They switched to using **containers**, where goods can be manufactured as per st
 Software engineers resorted to something similar, i.e. they used **docker containers**. Docker container allows a developer to package up an application with all the parts it needs, such as libraries and other dependencies and ship it out as one package.<br>
 <img src="./images/01.sw_problem_solved.png"></img><br>
 
+# Docker Workflow
+The below image describes the workflow of how docker works. Below is the description of every component -
+1. Developer creates a **Dockerfile** where she lists all the dependencies of her application. 
+2. A **Dockerfile** describes all the steps to create a **Docker image.**
+3. When you run a Docker image, you get a **Docker container**. Docker container has application with all its dependencies.
+4. Run-time instances of Docker image can be stored on an online cloud platform - [Docker Hub](https://hub.docker.com/)
+5. These images can be pulled to create containers in any environment.<br>
+<img src="./images/02.docker_workflow.png"></img><br>
+
 
