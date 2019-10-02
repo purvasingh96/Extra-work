@@ -41,6 +41,9 @@ The below image describes the workflow of how docker works. Below is the descrip
 | Represents OS virtualization                                                                                                                                                           | Reperesents hardware level virtualization         |
 | Real-time provisioning and scaling                                                                                                                                                     | Slow provisioning                                 |
 | Native performance                                                                                                                                                                     | Limited performance                               |
-| Process-level isolation, hence less secure.                                                                                                                                           
+| Process-level isolation, hence less secure.               | Fully isolated, hence more secure.                | 
+
+<br>
+<img src="./images/03.virtualization_vs_containerization.png"></img><br>
 
 
