@@ -22,7 +22,7 @@ The problem faced by software engineers is very similar to what people from ship
 They switched to using **containers**, where goods can be manufactured as per standards.<br>
 <img src="./images/04.shipping_industry_solved.png"></img><br>
 ## How did software engineers solve their problem?
-Software engineers resorted to something similar, i.e. they used **docker containers**.<br>
+Software engineers resorted to something similar, i.e. they used **docker containers**. Docker container allows a developer to package up an application with all the parts it needs, such as libraries and other dependencies and ship it out as one package.<br>
 <img src="./images/01.sw_problem_solved.png"></img><br>
 
 
