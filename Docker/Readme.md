@@ -34,4 +34,13 @@ The below image describes the workflow of how docker works. Below is the descrip
 5. These images can be pulled to create containers in any environment.<br>
 <img src="./images/02.docker_workflow.png"></img><br>
 
+# Containerization v/s Virtualization
+| Containerization                                                                                                                                                                       | Virtualization                                    |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| Containerization is a lightweight alternative to full machine <br> virtualization that involves encapsulating your application in a <br> container with its own operating environment. | A virtual machine is a copy of a complete server. |
+| Represents OS virtualization                                                                                                                                                           | Reperesents hardware level virtualization         |
+| Real-time provisioning and scaling                                                                                                                                                     | Slow provisioning                                 |
+| Native performance                                                                                                                                                                     | Limited performance                               |
+| Process-level isolation, hence less secure.                                                                                                                                           
+
 
